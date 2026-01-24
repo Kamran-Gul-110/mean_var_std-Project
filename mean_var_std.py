@@ -32,5 +32,3 @@ i = int(input("Enter 9th number: "))
 input_list = [a, b, c, d, e, f, g, h, i]
 
 calculate(input_list)
-
-# hi
